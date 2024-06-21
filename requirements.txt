@@ -1,0 +1,10 @@
+Shapely
+Flask
+matplotlib
+scipy
+plumbum
+numpy
+Pillow
+opencv-python
+tensorflow
+tf-slim
