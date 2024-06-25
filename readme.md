@@ -1,4 +1,4 @@
-# EAST: An Efficient and Accurate Scene Text Detector
+# EAST: An Efficient and Accurate Scene Text Detector(compatible with tensorflow 2.X)
 
 ### Introduction
 This is a tensorflow re-implementation of [EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/abs/1704.03155v2).
